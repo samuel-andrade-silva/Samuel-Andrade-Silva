@@ -4,7 +4,7 @@
 
 > I design and ship workflow automations and AI agents that remove manual work from business operations, from process mapping to production.
 
-`n8n` `Make` `Zapier` `LangChain` `RAG` `REST APIs` `Webhooks` `Python` `SQL` `Supabase` `Power BI` `Jira` `Confluence`
+`n8n` `LangChain` `RAG` `REST APIs` `Webhooks` `Python` `SQL` `Supabase` `Power BI` `Jira`
 
 Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/samuel-andrade-da-silva)
 
