@@ -1,4 +1,4 @@
-<img alt="Samuel Silva. AI Automation Specialist, Business Analyst, AI Solutions Consultant. Stack: n8n, Make, Zapier, AI Agents, LangChain, LangGraph, RAG, REST APIs, Webhooks, Python, SQL, Supabase." src="assets/header.svg" width="100%">
+<img alt="Samuel Silva. AI Automation Specialist, Business Analyst, AI Solutions Consultant. Stack: n8n, MCP, AI Agents, LangChain, LangGraph, RAG, REST APIs, Webhooks, Python, SQL, Supabase." src="assets/header.svg" width="100%">
 
 ## About me
 
